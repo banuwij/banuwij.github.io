@@ -17,12 +17,14 @@ title: "Hello. I'm Banu Surya Ganea Wijaya."
 email: 'banusurya@hotmail.com'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'banusurya_'
-github_username: 'banuwij'
-medium_username: 'banuwijaya.medium.com'
-instagram_username: 'banusurya'
-linkedin_username: 'banuwijaya.linkedin.com'
+url: "https://banuwij.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+social:
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/banuwijaya"
+  - title: "instagram"
+    url: "https://www.instagram.com/banusurya"
+  - title: "medium"
+    url: "https://medium.com/@banuwijaya"
 
 # Build settings
 markdown: kramdown
