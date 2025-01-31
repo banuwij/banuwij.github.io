@@ -15,16 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Banu Surya Ganea Wijaya."
 email: 'banusurya@hotmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+description: "I’m Banu Surya Ganea Wijaya, an investor and tech enthusiast exploring quantum computing for trading accuracy and AI applications in finance. With experience in managing investment policies at Wijaya & Brothers, I’m passionate about leveraging technology to optimize financial strategies."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://banuwij.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-social:
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/banuwijaya"
-  - title: "instagram"
-    url: "https://www.instagram.com/banusurya"
-  - title: "medium"
-    url: "https://medium.com/@banuwijaya"
+twitter_username: 'banusurya_'
+instagram_username: 'banusurya'
+linkedin_username: 'linkedin.com/banuwijaya'
+medium_username: 'banuwijaya.medium.com'
 
 # Build settings
 markdown: kramdown
@@ -96,8 +93,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2025 Banu Wijaya'
+admin_name: 'Banu Wijaya'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
