@@ -2,12 +2,12 @@
 layout: inner
 position: left
 title: 'Weathercast'
-date: 2016-02-20 15:56:00
+date: 2025-01-31 15:56:00
 categories: development
 tags: JavaScript AngularJS API Sass
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
-button_icon: 'github'
-button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+project_link: 'https://banuwijaya.medium.com/trading-indicator-quantum-inspired-7e84e537fcce'
+button_icon: 'medium'
+button_text: 'Visit PPage'
+lead_text: 'Quantum Computing Indicator'
 ---
